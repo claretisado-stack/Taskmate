@@ -1,0 +1,6 @@
+{
+  "name": "TaskMate",
+  "description": "A clean, distraction-free student planner for organizing homework, assignments, and exam deadlines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
